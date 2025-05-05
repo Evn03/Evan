@@ -1,4 +1,5 @@
 +++
 date = '2025-05-04T20:51:06+09:00'
-title = 'My Second Post'
+title = 'Типа книга'
+description: = "Описание книги"
 +++
